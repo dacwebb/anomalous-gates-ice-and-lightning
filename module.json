@@ -1,0 +1,84 @@
+{
+  "id": "anomalous-gates-ice-and-lightning",
+  "title": "Anomalous Gates Ice and Lightning",
+  "version": "0.9.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "kineticist-ag-class-features",
+      "label": "Kineticist (AG) - Class Features",
+      "path": "packs/kineticist-ag-class-features",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "kineticist-ag-effects",
+      "label": "Kineticist (AG) - Effects",
+      "path": "packs/kineticist-ag-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "kineticist-ag-feats",
+      "label": "Kineticist (AG) - Feats",
+      "path": "packs/kineticist-ag-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+	{
+      "name": "kineticist-ag-spells",
+      "label": "Kineticist (AG) - Spells",
+      "path": "packs/kineticist-ag-spells",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Anomalous Gates Ice and Lightning",
+      "sorting": "a",
+      "packs": [
+            "kineticist-ag-class-features",
+            "kineticist-ag-effects",
+            "kineticist-ag-feats",
+			"kineticist-ag-spells"
+          ],
+      "folders": []
+    }
+  ],
+  "authors": [
+    {
+      "name":["Vasco Duarte","Dorji Sanjiev"]
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system"
+      }
+    ]
+  },
+  "url": "???",
+  "manifest": "???",
+  "download": "???"
+}
