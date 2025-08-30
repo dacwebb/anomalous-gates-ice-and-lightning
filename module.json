@@ -1,7 +1,7 @@
 {
   "id": "anomalous-gates-ice-and-lightning",
   "title": "Anomalous Gates Ice and Lightning",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
